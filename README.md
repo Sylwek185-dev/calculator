@@ -1,7 +1,6 @@
 # Kalkulator
 
-https://github.com/Sylwek185-dev/calculator
-
+https://sylwek185-dev.github.io/calculator/
 
 Prosta i intuicyjna aplikacja kalkulatora zbudowana z użyciem HTML, CSS i JavaScript.
 
@@ -39,5 +38,5 @@ git clone https://github.com/Sylwek185-dev/calculator.git
 ```
 
 ### Kontakt
-Sylwek185 - sylwek185@op.pl
 
+Sylwek185 - sylwek185@op.pl
