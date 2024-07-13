@@ -6,7 +6,7 @@ Prosta i intuicyjna aplikacja kalkulatora zbudowana z użyciem HTML, CSS i JavaS
 
 ## Wprowadzenie
 
-Kalkulator to podstawowa aplikacja internetowa, która pozwala użytkownikom wykonywać operacje arytmetyczne. Jest to świetny projekt dla początkujących, którzy chcą nauczyć się i ćwiczyć umiejętności związane z tworzeniem stron internetowych.
+Kalkulator to podstawowa aplikacja internetowa, która pozwala użytkownikom wykonywać operacje arytmetyczne.
 
 ## Funkcje
 
